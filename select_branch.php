@@ -121,8 +121,7 @@ $paginationCtrls .= ' &nbsp; &nbsp; <a href="'.$_SERVER['PHP_SELF'].'?pn='.$next
 			</div>
 		</div>
 	</body>
-</html>1-1ปะ
-
+</html>
 <!-- Ref : 
 
 	https://www.sourcecodester.com/tutorials/php/11606/simple-pagination-using-phpmysqli.html
