@@ -121,7 +121,7 @@ $paginationCtrls .= ' &nbsp; &nbsp; <a href="'.$_SERVER['PHP_SELF'].'?pn='.$next
 			</div>
 		</div>
 	</body>
-</html>
+</html>1-1ปะ
 
 <!-- Ref : 
 
